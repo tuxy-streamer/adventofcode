@@ -1,0 +1,4 @@
+github.com/tuxy-streamer/dsa-go v0.0.0-20250710161029-f13c7e747bb8 h1:y9R3/1I1w/cYqn+WZF8KCLr/pucwdg4Q20e1LJw6HZo=
+github.com/tuxy-streamer/dsa-go v0.0.0-20250710161029-f13c7e747bb8/go.mod h1:9H8uC847SRu/MINbdPfc65atuylsdy7oMHb3wsrcOgs=
+github.com/tuxy-streamer/dsago v0.0.0-20250710172453-15c54cd4cdd2 h1:nIItWGP22pn1FvFcR9ZvKroTNhEbvAakx9ov/RAdWLE=
+github.com/tuxy-streamer/dsago v0.0.0-20250710172453-15c54cd4cdd2/go.mod h1:Pu8r9qHTcZzw9zdIG7oYfXbZ/n3cdwjINvuCeDfWhmo=
