@@ -76,6 +76,12 @@ pub fn run() {
     let data = read_file("2015/day6/day6.txt");
     let no_of_on_lights: i32 = first_half(data.clone());
     let total_brightness: i32 = second_half(data.clone());
-    println!("{}", no_of_on_lights);
-    println!("{}", total_brightness);
+    println!(
+        "2015(Day6): First Half (no_of_on_lights): {}",
+        no_of_on_lights
+    );
+    println!(
+        "2015(Day6): Second Half (total_brightness): {}",
+        total_brightness
+    );
 }

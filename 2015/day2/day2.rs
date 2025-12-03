@@ -56,6 +56,6 @@ pub fn run() {
     let data = read_file("2015/day2/day2.txt");
     let total_paper = first_half(data.clone());
     let total_ribbon = second_half(data.clone());
-    println!("First Half (total_paper): {}", total_paper);
-    println!("Second Half (total_ribbon): {}", total_ribbon);
+    println!("2015(Day2): First Half (total_paper): {}", total_paper);
+    println!("2015(Day2): Second Half (total_ribbon): {}", total_ribbon);
 }
