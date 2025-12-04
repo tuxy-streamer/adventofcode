@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/tuxy-streamer/adventofcode/2015/day1"
+	day1_2015 "github.com/tuxy-streamer/adventofcode/2015/day1_2025"
 )
 
 func main() {
-	day1.Run()
+	day1_2015.Run()
 }

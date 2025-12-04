@@ -1,4 +1,4 @@
-package day1
+package day1_2025
 
 import (
 	"fmt"
@@ -44,7 +44,7 @@ func secondHalf(data string) int {
 }
 
 func Run() {
-	data := readFile("2015/day1/day1.txt")
+	data := readFile("2015/day1_2015/day1.txt")
 	ans1 := firstHalf(data)
 	ans2 := secondHalf(data)
 	fmt.Println("First Half (Floor) : ", ans1)
